@@ -1,1 +1,1 @@
-docker run -d --hostname vrabbit --name webapi-rabbit rabbitmq:3
+docker run -d --rm --hostname vrabbit --name webapi-rabbit rabbitmq:3
